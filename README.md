@@ -1,4 +1,5 @@
-Project Overview
+                                                                                            Project Overview
+
 Welcome to the Instagram User Analytics project! This initiative revolves around the exploration and analysis of user engagement patterns on the popular social media platform, Instagram. By delving into user data and interaction metrics, this project aims to provide valuable insights into user behavior, content performance, and trends. Whether you're a social media enthusiast, a marketing professional, or simply curious about online user dynamics, this project offers an exciting journey into the world of Instagram analytics.
 
 Project Structure
@@ -21,7 +22,10 @@ Project Structure
     ├── database.sql                       <- DB creation.
     │
     ├── preprocesing.sql                   <- Preprocessing SQL queries.
+
+    
 Problem Description
+
 In today's digital age, understanding user behavior on social media platforms is essential for effective content strategy and engagement optimization. The Instagram User Analytics project tackles this challenge by focusing on the analysis of user interactions, post engagement, and follower growth. By deciphering these patterns, we can unveil what resonates with users, identify high-performing content, and potentially forecast trends.
 
 Dataset Information
