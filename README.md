@@ -60,8 +60,7 @@ To embark on this journey of Instagram User Analytics:
 
 Prerequisites: Ensure you have Python (version X.Y) installed along with required libraries listed in requirements.txt.
 
-Clone the Repository: Clone this repository to your local machine using git clone https://github.com/tushar2704/instagram-user-analytics.git.
-
+Clone the Repository: Clone this repository to your local machine using git clone https://github.com/Vivek1234kumarsingh/vivek
 Dataset: Download the "IG_analytics_dataset" from [link] and place it in the data directory.
 
 Exploration and Analysis: Launch Jupyter Notebook using jupyter notebook and open Instagram_Analytics.ipynb to explore the dataset and engage in in-depth analysis.
