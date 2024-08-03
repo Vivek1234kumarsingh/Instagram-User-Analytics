@@ -3,7 +3,6 @@
 Welcome to the Instagram User Analytics project! This initiative revolves around the exploration and analysis of user engagement patterns on the popular social media platform, Instagram. By delving into user data and interaction metrics, this project aims to provide valuable insights into user behavior, content performance, and trends. Whether you're a social media enthusiast, a marketing professional, or simply curious about online user dynamics, this project offers an exciting journey into the world of Instagram analytics.
 ```
 Project Structure
-├── LICENSE
 ├── README.md          <- README .
 ├── query              <- Code of the DB creation and queries.
 │   │
@@ -46,14 +45,11 @@ Background Information
 As Instagram continues to shape online interactions, content creators, businesses, and influencers seek to decipher user preferences and optimize their strategies. This project is fueled by the realization that data-driven insights can guide content creation, enhance engagement, and facilitate audience growth. By studying engagement rates, post frequency, and other key indicators, this project contributes to a deeper understanding of the Instagram landscape.
 
 Project Workflow
+
 Data Collection: Acquire and preprocess the "IG_analytics_dataset," ensuring data integrity and handling any missing values.
-
 Exploratory Analysis: Dive into the dataset to uncover trends, correlations, and outliers. Visualize engagement patterns and user dynamics.
-
 Engagement Insights: Analyze the factors influencing engagement rates, such as post frequency, content type, and timing.
-
 Top Performers: Identify top-performing posts, uncovering what resonates with users through likes and comments.
-
 Follower Growth Analysis: Explore how follower count evolves over time and assess factors contributing to growth.
 
 
